@@ -62,31 +62,3 @@ To get the most out of these exercises:
    cd Practice-SQL-From-Zero-to-Hero
    ```
 
-2. **Set Up the Database:**
-   - Use the `*_build_schema.sql` script in each exercise directory to create the necessary tables and insert data.
-   - Execute the script in your SQL environment:
-     ```sql
-     -- Example for Exercise 01
-     \i SQL_exercise_01/SQL_exercise_01_build_schema.sql
-     ```
-
-3. **Attempt the Questions:**
-   - Open the `*_questions_and_solutions.sql` file.
-   - Try to solve each question on your own before reviewing the provided solutions.
-
-### 🤝 **Contributors**  
-
-👤 **Prayag Verma**  
-👥 **Data Engineer**  
-
-🔗 **LinkedIn:**  → [linkedin.com/in/prayagv](https://www.linkedin.com/in/prayagv/)  
-🔗 **Portfolio:**  → [prayagverma.com](https://prayagverma.com/)
-
-
-💬 Feel free to raise an issue or contribute via pull requests!  
-
-Contributions are welcome! If you have additional exercises, improvements, or suggestions, please fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
